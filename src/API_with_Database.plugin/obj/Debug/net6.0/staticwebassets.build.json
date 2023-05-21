@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "J9q7jy7ZMgtQ9LojEHf5CwyL8kpDhlIQ92VS98M633k=",
+  "Source": "API_with_Database.plugin",
+  "BasePath": "_content/API_with_Database.plugin",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
