@@ -1264,27 +1264,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a1jonpou\\.nuget\\packages\\": {}
+    "C:\\Users\\dkJonPou\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\private_projects\\API_with_DB.plugin\\src\\API_with_Database.plugin\\API_with_Database.plugin.csproj",
+      "projectUniqueName": "C:\\Dev\\projects\\API_with_DB.plugin\\src\\API_with_Database.plugin\\API_with_Database.plugin.csproj",
       "projectName": "API_with_Database.plugin",
-      "projectPath": "C:\\Development\\private_projects\\API_with_DB.plugin\\src\\API_with_Database.plugin\\API_with_Database.plugin.csproj",
-      "packagesPath": "C:\\Users\\a1jonpou\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\private_projects\\API_with_DB.plugin\\src\\API_with_Database.plugin\\obj\\",
+      "projectPath": "C:\\Dev\\projects\\API_with_DB.plugin\\src\\API_with_Database.plugin\\API_with_Database.plugin.csproj",
+      "packagesPath": "C:\\Users\\dkJonPou\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\projects\\API_with_DB.plugin\\src\\API_with_Database.plugin\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\a1jonpou\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\dkJonPou\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Development\\C#\\Microservices_project\\packages": {},
-        "C:\\Development\\Engineer_case\\Backend\\packages": {},
-        "C:\\Development\\private_projects\\Database.plugin\\packages": {},
+        "C:\\Dev\\projects\\Database.plugin\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1331,7 +1329,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.414\\RuntimeIdentifierGraph.json"
       }
     }
   }
